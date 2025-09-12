@@ -169,6 +169,14 @@
         <td></td>
         <td><a href="https://vip4.1ai.ink" target="_blank">🔗</a></td>
     </tr> 
+    <tr>
+        <td>7</td>
+        <td><img src="https://st2.ai55.cc/1/20250911201806_2_10.png" alt="favicon" style="height: 20px !important;width: 20px !important;"></td>
+        <td><a href="https://oai.oooai.cc" target="_blank">主流好用的AI镜像平台</a></td>
+        <td>[推广]🆕官网一致、稳定、免费（GPT、Claude、Gro...</td>
+        <td></td>
+        <td><a href="https://oai.oooai.cc" target="_blank">🔗</a></td>
+    </tr> 
 </table>
 
 
@@ -1970,4 +1978,4 @@
 [GitHub](https://github.com/xx025/carrot) | [站点提交](https://github.com/xx025/carrot/issues/new/choose) | [站点反馈](https://github.com/xx025/carrot/issues/new/choose) | [加入推荐](https://docs.qq.com/doc/DT0xOS2JCUlhRTXdw)
 
 
-> 最后更新: 2025-08-25 08:45:48
+> 最后更新: 2025-09-12 09:12:38
